@@ -7,7 +7,7 @@ Based on [VIA](https://github.com/the-via/app) and [VIA-Desktop](https://github.
 To start the application, run:
 
 ```sh
-./windows.bat
+windows.bat
 npm install
 npm start
 ```
