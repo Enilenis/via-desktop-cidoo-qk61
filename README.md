@@ -20,6 +20,10 @@ To build the application for distribution, run:
 npm run make
 ```
 
+## Troubleshooting
+
+If your keyboard is not detected properly, try deleting the folder `%AppData%\via-desktop`.
+
 ## Disclaimer
 
 This software is provided "as is" and used at your own risk. The author is not responsible for any issues caused by its use.
