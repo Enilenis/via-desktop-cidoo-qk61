@@ -22,7 +22,7 @@ npm run make
 
 ## Troubleshooting
 
-If your keyboard is not detected properly, try deleting the folder `%AppData%\via-desktop`.
+If your keyboard is not detected properly, try deleting the folder `%AppData%\via-desktop`
 
 ## Disclaimer
 
